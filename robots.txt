@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-g7lf5h.pagoenerguate.com/sitemap.xml
